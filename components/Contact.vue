@@ -28,24 +28,20 @@
               <h2
                 class="font-heading mt-6 text-2xl text-gray-700 tracking-tighter"
               >
-                Mr. Anil Sharma
               </h2>
-              <p>(Managing Director)</p>
+              <p></p>
               <h2
                 class="font-heading text-xl text-gray-700 tracking-tighter pb-4 border-b"
               >
-                +91 00000-00000
               </h2>
               <h2
                 class="font-heading mt-6 text-2xl text-gray-700 tracking-tighter"
               >
-                Mr. Anil Sharma
               </h2>
-              <p>(Managing Director)</p>
+              <p></p>
               <h2
                 class="font-heading text-xl text-gray-700 tracking-tighter pb-4 border-b"
               >
-                +91 00000-00000
               </h2>
 
               <h2
