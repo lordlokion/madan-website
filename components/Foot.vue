@@ -1,7 +1,7 @@
 <template>
-  <section class="py-12 md:py-24 bg-black overflow-hidden">
+  <section class="py-12  md:py-24 bg-black overflow-hidden">
     <div class="container mx-auto border-b border-white">
-      <div class="flex flex-wrap justify-between mx-4 md:mx-auto max-w-6xl">
+      <div class="flex flex-wrap justify-between mx-4 md:mx-auto max-w-6xl mb-12">
         <div class="w-full md:w-auto md:flex-shrink-0 mb-8 md:mb-0 md:mr-12">
           <h3 class="mb-4 text-white font-semibold text-2xl md:text-3xl">
             Products
@@ -10,25 +10,25 @@
             <li class="mb-3 md:mb-4 text-gray-200">
               <a
                 class="text-white hover:text-gray-300 transition duration-200"
-                href="http://localhost:3000/products/die-punching-machine"
+                href="https://madanenggworks.in/products/die-punching-machine"
               >Die Punching Machine</a>
             </li>
             <li class="mb-3 md:mb-4 text-gray-200">
               <a
                 class="text-white hover:text-gray-300 transition duration-200"
-                href="http://localhost:3000/products/paper-cutting-machine"
+                href="https://madanenggworks.in/products/paper-cutting-machine"
               >Paper Cutting Machine</a>
             </li>
             <li class="mb-3 md:mb-4 text-gray-200">
               <a
                 class="text-white hover:text-gray-300 transition duration-200"
-                href="http://localhost:3000/products/corrugation-machine"
+                href="https://madanenggworks.in/products/corrugation-machine"
               >Corrugation Machine</a>
             </li>
             <li class="text-gray-200">
               <a
                 class="text-white hover:text-gray-300 transition duration-200"
-                href="http://localhost:3000/products/die-cutting-maching"
+                href="https://madanenggworks.in/products/die-cutting-maching"
               >Die Cutting Maching</a>
             </li>
           </ul>
@@ -41,19 +41,19 @@
             <li class="mb-3 md:mb-4 text-gray-200">
               <a
                 class="text-white hover:text-gray-300 transition duration-200"
-                href="http://localhost:3000/about"
+                href="https://madanenggworks.in/about"
               >About</a>
             </li>
             <li class="mb-3 md:mb-4 text-gray-200">
               <a
                 class="text-white hover:text-gray-300 transition duration-200"
-                href="http://localhost:3000/products"
+                href="https://madanenggworks.in/pro"
               >Products</a>
             </li>
             <li class="mb-3 md:mb-4 text-gray-200">
               <a
                 class="text-white hover:text-gray-300 transition duration-200"
-                href="http://localhost:3000/testimonials"
+                href="https://madanenggworks.in/testimonials"
               >Testimonial</a>
             </li>
             <li class="text-gray-200">

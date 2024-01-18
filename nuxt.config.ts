@@ -38,13 +38,12 @@ export default defineNuxtConfig({
   },
   generate: {
     routes: [
-      '/products/product-1', // Use actual product titles here
+      '/products/product-1', 
       '/products/product-2',
       '/about',
       '/contact',
       '/testimonials',
       '/quote',
-      // ... add more routes as needed
     ],
 
   },

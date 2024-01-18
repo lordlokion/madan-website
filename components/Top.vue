@@ -8,7 +8,7 @@
           alt="MEW"
           width="auto"
         />
-        <h1 class="mt-2 mx-2">MEW</h1>
+        <h1 class="mx-2">MEW</h1>
       </a>
 
       <ul

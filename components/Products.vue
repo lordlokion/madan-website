@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <section class="container mx-auto py-16">
+    <section class="container mx-auto py-10">
       <h2 class="text-4xl text-center font-heading font-semibold text-rhino-600 tracking-xs mb-4">
         Products
       </h2>
